@@ -4,6 +4,10 @@
 
 One Monokai theme
 
+settings sync
+
 ## 快捷键映射
 
 搜索 fold/unfold
+
+delete line 

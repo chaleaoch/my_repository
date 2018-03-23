@@ -33,6 +33,10 @@ Window --> Preference --> General --> Key
 - collapse All -- ctrl + shift + _
 - expand -- ctrl + +
 - expand All -- ctrl + shift + +
+- replace -- ctrl + r
+- replace all -- ctrl + shift + r
+- find -- ctrl + f
+- find all -- ctrl + shift + f
 
 ![搜狗截图20180321162704](C:\Users\zhichao.feng\Desktop\worknotesMD\配图\搜狗截图20180321162704.jpg)
 
