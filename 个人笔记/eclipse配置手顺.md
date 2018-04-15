@@ -2,6 +2,11 @@
 
 # eclipse配置手顺
 
+## 安装插件
+
+- eclipse color  theme 1.0.0
+- intellij IDEA keymap for eclipse 0.1
+
 ## windows10 任务栏有多个图标，锁定任务栏失败
 
 在eclipse目录下，修改eclipse.ini文件，在-vmargs之前：
@@ -20,25 +25,6 @@ Windows --> Preference --> 搜索Content Assist
 auto activation triggers for Java 填入
 
 `abcdefghijklmnopqrstuvwxyz.`
-
-![搜狗截图20180321162501](C:\Users\zhichao.feng\Desktop\worknotesMD\配图\搜狗截图20180321162501.jpg)
-
-## keymap
-
-Window --> Preference --> General --> Key
-
-需要修改
-
-- collapse -- ctrl + _
-- collapse All -- ctrl + shift + _
-- expand -- ctrl + +
-- expand All -- ctrl + shift + +
-- replace -- ctrl + r
-- replace all -- ctrl + shift + r
-- find -- ctrl + f
-- find all -- ctrl + shift + f
-
-![搜狗截图20180321162704](C:\Users\zhichao.feng\Desktop\worknotesMD\配图\搜狗截图20180321162704.jpg)
 
 ## 编辑器颜色修正
 
